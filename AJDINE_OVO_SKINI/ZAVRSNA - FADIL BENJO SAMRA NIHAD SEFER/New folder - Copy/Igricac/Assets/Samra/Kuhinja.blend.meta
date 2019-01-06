@@ -1,0 +1,392 @@
+fileFormatVersion: 2
+guid: e30f8743f784f8046b7ace450110f794
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cube_001
+    100004: Cube_002
+    100006: Cube_003
+    100008: Cube_004
+    100010: Cube_005
+    100012: Cube_006
+    100014: Cube_007
+    100016: Cube_008
+    100018: Cube_009
+    100020: Cube_010
+    100022: Cube_011
+    100024: Cube_012
+    100026: Cube_013
+    100028: Cube_014
+    100030: Cube_015
+    100032: Cube_016
+    100034: Cylinder
+    100036: Cylinder_001
+    100038: Cylinder_002
+    100040: //RootNode
+    100042: stolica1_stolica2_000
+    100044: stolica1_stolica2_001
+    100046: stolica1_stolica2_002
+    100048: Cube_017
+    100050: stolica1_stolica2_003
+    100052: stolica1_stolica2_004
+    100054: stolica1_stolica2_005
+    100056: Cube_018
+    100058: Cube_019
+    100060: Cube_020
+    100062: Cube_021
+    100064: Cube_022
+    100066: Cube_023
+    400000: Cube
+    400002: Cube_001
+    400004: Cube_002
+    400006: Cube_003
+    400008: Cube_004
+    400010: Cube_005
+    400012: Cube_006
+    400014: Cube_007
+    400016: Cube_008
+    400018: Cube_009
+    400020: Cube_010
+    400022: Cube_011
+    400024: Cube_012
+    400026: Cube_013
+    400028: Cube_014
+    400030: Cube_015
+    400032: Cube_016
+    400034: Cylinder
+    400036: Cylinder_001
+    400038: Cylinder_002
+    400040: //RootNode
+    400042: stolica1_stolica2_000
+    400044: stolica1_stolica2_001
+    400046: stolica1_stolica2_002
+    400048: Cube_017
+    400050: stolica1_stolica2_003
+    400052: stolica1_stolica2_004
+    400054: stolica1_stolica2_005
+    400056: Cube_018
+    400058: Cube_019
+    400060: Cube_020
+    400062: Cube_021
+    400064: Cube_022
+    400066: Cube_023
+    2100000: Material_013
+    2100002: Material_020
+    2100004: Material_017
+    2100006: Material_018
+    2100008: Material_019
+    2100010: Material_011
+    2100012: Material_007
+    2100014: Material_007__door_texture_jpg
+    2100016: Material_006
+    2100018: Material_001
+    2100020: Material_003
+    2100022: Material_002
+    2100024: Material_016
+    2100026: Material_008
+    2100028: Material_005
+    2100030: Material_012
+    2100032: Material_009
+    2100034: Material
+    2100036: Material_004
+    2100038: Material_010
+    2100040: Material_015
+    2100042: Material_014
+    2300000: Cube
+    2300002: Cube_001
+    2300004: Cube_002
+    2300006: Cube_003
+    2300008: Cube_004
+    2300010: Cube_005
+    2300012: Cube_006
+    2300014: Cube_007
+    2300016: Cube_008
+    2300018: Cube_009
+    2300020: Cube_010
+    2300022: Cube_011
+    2300024: Cube_012
+    2300026: Cube_013
+    2300028: Cube_014
+    2300030: Cube_015
+    2300032: Cube_016
+    2300034: Cylinder
+    2300036: Cylinder_001
+    2300038: Cylinder_002
+    2300040: stolica1_stolica2_000
+    2300042: stolica1_stolica2_001
+    2300044: stolica1_stolica2_002
+    2300046: Cube_017
+    2300048: stolica1_stolica2_003
+    2300050: stolica1_stolica2_004
+    2300052: stolica1_stolica2_005
+    2300054: Cube_018
+    2300056: Cube_019
+    2300058: Cube_020
+    2300060: Cube_021
+    2300062: Cube_022
+    2300064: Cube_023
+    3300000: Cube
+    3300002: Cube_001
+    3300004: Cube_002
+    3300006: Cube_003
+    3300008: Cube_004
+    3300010: Cube_005
+    3300012: Cube_006
+    3300014: Cube_007
+    3300016: Cube_008
+    3300018: Cube_009
+    3300020: Cube_010
+    3300022: Cube_011
+    3300024: Cube_012
+    3300026: Cube_013
+    3300028: Cube_014
+    3300030: Cube_015
+    3300032: Cube_016
+    3300034: Cylinder
+    3300036: Cylinder_001
+    3300038: Cylinder_002
+    3300040: stolica1_stolica2_000
+    3300042: stolica1_stolica2_001
+    3300044: stolica1_stolica2_002
+    3300046: Cube_017
+    3300048: stolica1_stolica2_003
+    3300050: stolica1_stolica2_004
+    3300052: stolica1_stolica2_005
+    3300054: Cube_018
+    3300056: Cube_019
+    3300058: Cube_020
+    3300060: Cube_021
+    3300062: Cube_022
+    3300064: Cube_023
+    4300000: Cube_006
+    4300002: Cylinder_002
+    4300004: stolica1_stolica2_002
+    4300006: stolica1_stolica2_000
+    4300008: Cube_016
+    4300010: Cylinder
+    4300012: Cube_013
+    4300014: Cube_011
+    4300016: Cube_012
+    4300018: Cube_010
+    4300020: Cube_008
+    4300022: Cube_007
+    4300024: Cube_005
+    4300026: Cube_004
+    4300028: Cube_003
+    4300030: Cube_002
+    4300032: Cube_001
+    4300034: Cube
+    4300036: stolica1_stolica2_001
+    4300038: Cube_009
+    4300040: Cube_014
+    4300042: Cube_015
+    4300044: Cylinder_001
+    4300046: stolica1_stolica2_005
+    4300048: stolica1_stolica2_004
+    4300050: stolica1_stolica2_003
+    4300052: Cube_017
+    4300054: Cube_019
+    4300056: Cube_018
+    4300058: Cube_020
+    4300060: Cube_021
+    4300062: Cube_022
+    4300064: Cube_023
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 39339cfdaeabe394484dbeff8b284d7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001
+    second: {fileID: 2100000, guid: bf04c895a385f8d4ca84073cb9336f1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_002
+    second: {fileID: 2100000, guid: 6a137745e3a0ea849ad2701ffbb0cbb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_003
+    second: {fileID: 2100000, guid: 5f0b95a617cee5447a8894d734b0d70b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_004
+    second: {fileID: 2100000, guid: ab996adf44b40b746bc2359f16ea4499, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_005
+    second: {fileID: 2100000, guid: b1dde6aae5b6c994cbca90629a477b6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_006
+    second: {fileID: 2100000, guid: 6925c7cc964b7784ca01c016e953cf55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_007
+    second: {fileID: 2100000, guid: 1834d08e78b3d2e4a8ba4bbac1e4a603, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_007__door_texture_jpg
+    second: {fileID: 2100000, guid: 40b788d2a883d514a919f8c1d04cf51a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_008
+    second: {fileID: 2100000, guid: d81018a191fa39345bc87dc28f643d5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_009
+    second: {fileID: 2100000, guid: 801f279018e85524d972e23ff2f2d66a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_010
+    second: {fileID: 2100000, guid: 52e9bc196218d04429ada773884ce499, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_011
+    second: {fileID: 2100000, guid: c1d2c40f393f18c4299e7e50be4dac1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_012
+    second: {fileID: 2100000, guid: aa314896a998dde40b24a234ded7aaef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_013
+    second: {fileID: 2100000, guid: a616db96c419ff248b723e35ccfd938e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_014
+    second: {fileID: 2100000, guid: 29cb43010684ee645a369a053ed01552, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_015
+    second: {fileID: 2100000, guid: a70c855b3d740d2428a4eb80adebadcc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_016
+    second: {fileID: 2100000, guid: 2aea0df01936c9645b12aef829d117af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_017
+    second: {fileID: 2100000, guid: 3cbeecc7288a75d41b94f77461bb25c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_018
+    second: {fileID: 2100000, guid: 6992bc6334f6fb7458d28878bed478b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_019
+    second: {fileID: 2100000, guid: 8416d4af9a92bc14ba667c7d28704ce6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_020
+    second: {fileID: 2100000, guid: 7501c5f88edaed3478f2b64a0c9db706, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
